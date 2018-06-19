@@ -1,0 +1,2 @@
+# vest-token
+Vestchain Token
