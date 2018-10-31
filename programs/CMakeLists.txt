@@ -1,0 +1,5 @@
+add_subdirectory( nodvest )
+add_subdirectory( clvest )
+add_subdirectory( kvestd )
+add_subdirectory( vestio-launcher )
+add_subdirectory( vestio-abigen )

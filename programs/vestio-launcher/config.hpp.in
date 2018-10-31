@@ -1,0 +1,10 @@
+#pragma once
+
+#ifndef CONFIG_HPP_IN
+#define CONFIG_HPP_IN
+
+namespace vestio { namespace launcher { namespace config {
+  constexpr char version_str[] = "${launcher_BUILD_VERSION}";
+}}}
+
+#endif // CONFIG_HPP_IN
